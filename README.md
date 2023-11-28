@@ -2,7 +2,7 @@
 
 This repository was created to store all the studies and projects developed in Golang.
 
-I'm basing on the **[Gollang Studies](https://github.com/glaucia86/golang-studies)** repo but will follow only the Go Documentation.
+I'm basing on the **[Gollang Studies](https://github.com/glaucia86/golang-studies)** repo from **[Glaucia Lemos](https://github.com/glaucia86)** but will follow only the Go Documentation.
 
 [![bit-go.png](https://i.postimg.cc/s204FQ2b/bit-go.png)](https://postimg.cc/GBGyGpGj)
 
