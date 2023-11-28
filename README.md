@@ -28,5 +28,3 @@ I will be listing here some important links and resources that will direct you t
 ## ❓ I have questions... What do I do?!
 
 If you have questions about the codes developed during this series of articles, feel free to open an **ISSUE\*\*** HERE\*\*. As soon as possible, I will be answering all the questions you have!
-
-## This repo is based on
